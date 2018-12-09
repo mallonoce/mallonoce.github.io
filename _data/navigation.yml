@@ -1,13 +1,13 @@
 header:
   - titles:
-      en:       About
-    url:        /about.html
-  - titles:
-      en:       Blog
-    url:        /blog.html
+      en:       CV
+    url:        /cv.html
   - titles:
       en:       Projects
     url:        /projects.html
+  - titles:
+      en:       Blog
+    url:        /blog.html
   - titles:
       en:       Contacts
     url:        /contacts.html
