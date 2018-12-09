@@ -61,7 +61,15 @@ highlight_theme: tomorrow # "default" (default), "tomorrow", "tomorrow-night", "
 # Set Language
 lang: en
 
-
+#define directories
+collections_dir: my_collections
+collections:
+  projects:
+    output: true
+  articles:
+    output: true
+assets:
+    prefix: "/assets"
 
 plugins:
   - jekyll-feed
