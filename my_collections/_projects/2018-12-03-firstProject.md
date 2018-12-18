@@ -1,8 +1,11 @@
 ---
 layout: article
-title: My first project
-aside:
-  toc: true
+title: My first project template
+cover: /assets/images/cover.jpg
+article_header:
+  type: cover
+  image:
+    src: /assets/images/cover.jpg
 ---
 
 If you see this page, that means you have setup your site. enjoy! :ghost: :ghost: :ghost:

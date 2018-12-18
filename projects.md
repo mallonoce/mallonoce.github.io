@@ -3,7 +3,26 @@ layout: articles
 title: Articles - My projects test
 articles:
   data_source: projects
-  show_excerpt: true
-  show_readmore: true
-  show_info: true
+  type: grid
 ---
+
+
+<div class="article__content" markdown="1">
+
+---
+
+Article list with grid layout.
+
+<!--more-->
+
+**front matter:**
+
+    ---
+    layout: articles
+    title: Articles - Grid
+    articles:
+      data_source: site.page
+      type: grid
+    ---
+
+</div>

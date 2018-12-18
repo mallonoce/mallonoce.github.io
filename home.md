@@ -1,18 +1,25 @@
 ---
 layout: landing
+footer: false
 title: Antonio Tammaro
 excerpt: >
-  Software Developer, Computer Vision and Graphics Enthusiast, Minimalist, Traveler, Dioscoverer 
+  Software Developer, Computer Vision and Graphics Enthusiast, Minimalist, Traveler, Discoverer 
 permalink: /home.html
 
 article_header:
   actions:
     - text: CV
-      type: error
+      type: outline-error
       url: /cv
     - text: projects
       type: outline-info
       url: /projects
+    - text: blog
+      type: outline-warning
+      url: /blog
+    - text: Write Me!
+      type: outline-success
+      url: /contacts
   height: 100vh
   theme: dark
   background_color: "#111"
