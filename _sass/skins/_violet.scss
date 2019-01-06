@@ -1,7 +1,7 @@
 ///
-// Skin: Orange
-// Author: Tian Qi
-// Email: kitian616@outlook.com
+// Skin: Violet
+// Author: Antonio Tammaro
+// Email: ant.tammaro.prof@gmail.com
 ///
 
 // main colors
@@ -34,9 +34,9 @@ $text-background-color: rgba(#000, .05);
 
 // header and footer colors
 $header-text-color: $text-color-3;
-$header-background: linear-gradient(60deg, #F00096 0%, #6800D0 100%);
+$header-background: linear-gradient(60deg, rgba(240, 0, 150, .4), rgba(104, 0, 208 , .4));
 $footer-text-color: $text-color-3;
-$footer-background: linear-gradient(60deg, #F00096 0%, #6800D0 100%);
+$footer-background: linear-gradient(60deg, rgba(240, 0, 150, .4), rgba(104, 0, 208 , .4));
 
 // border and shadow colors
 $border-color:     mix($main-color-1, $background-color, 50%);
